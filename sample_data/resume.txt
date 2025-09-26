@@ -1,0 +1,14 @@
+Resume of John Doe
+
+Position: Software Engineer
+Department: Engineering
+Location: New York
+
+Skills:
+- Python
+- Java
+- SQL
+- Machine Learning
+
+Experience:
+Worked on building scalable APIs and data pipelines.
